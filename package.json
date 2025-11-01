@@ -1,0 +1,11 @@
+{
+  "name": "precisionx-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node api/cakto-webhook.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.15"
+  }
+}
